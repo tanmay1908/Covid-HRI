@@ -1,6 +1,4 @@
-#################################################
-
-ROBO-CARE
+#ROBO-CARE
 
 Tanmay Agarwal, Kathan Shah and Muntaqim Mehtaz
 CSCI 5551, University of Minnesota, Twin Cities
