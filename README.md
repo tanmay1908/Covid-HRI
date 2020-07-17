@@ -2,7 +2,7 @@
 
 **Project By:** Tanmay Agarwal, Kathan Shah and Muntaqim Mehtaz  
 **Supervisor:** Dr. Junaed Sattar  
-Final Project for CSCI 5551, University of Minnesota, Twin Cities**
+Final Project for CSCI 5551, University of Minnesota, Twin Cities
 
 This project simulates a TiaGo humanoid robot as a "Home Caretaking Robot". 
 Users can communicate with the robot through two modes:
@@ -12,14 +12,14 @@ Users can communicate with the robot through two modes:
 Some preliminary code for manipulation is also present, but it does not have full capabilities at this point.
 Runs on ROS-Melodic, Rviz and Gazebo
 
-## To initialize:
+## To initialize: 
 
 Run the `install_packages.sh` bash script to get all required packages
 You will have to use `chmod` to give execution access to this script
 
 ### NOTE: 
 The src folder of the carkin workspace is too large to upload on github. 
-Please find it on google drive here: 
+Please find it on google drive here: https://drive.google.com/drive/folders/10PZcTk0JXZnHjjIUpCupsAGWwbPgtYaD?usp=sharing
 The install packages assume you have ROS, Gazebo and RViz installed.
 If not, please run:
 `sudo apt install ros-melodic-desktop-full
