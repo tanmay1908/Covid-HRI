@@ -20,6 +20,8 @@ You will have to use `chmod` to give execution access to this script
 ### NOTE: 
 The src folder of the carkin workspace is too large to upload on github. 
 Please find it on google drive here: https://drive.google.com/drive/folders/10PZcTk0JXZnHjjIUpCupsAGWwbPgtYaD?usp=sharing
+The room_nav, main and hand_gestures folders are only for demonstrative purposes. Please delete them once you have downloaded the src folder from Google Drive above
+
 The install packages assume you have ROS, Gazebo and RViz installed.
 If not, please run:
 `sudo apt install ros-melodic-desktop-full
